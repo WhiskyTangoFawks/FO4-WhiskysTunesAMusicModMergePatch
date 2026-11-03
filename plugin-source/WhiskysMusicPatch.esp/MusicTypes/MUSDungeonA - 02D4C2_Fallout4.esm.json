@@ -1,0 +1,35 @@
+{
+  "FormKey": "02D4C2:Fallout4.esm",
+  "EditorID": "MUSDungeonA",
+  "Flags": [
+    "CycleTracks"
+  ],
+  "Data": {
+    "Priority": 70
+  },
+  "FadeDuration": 4.0,
+  "Tracks": [
+    "084A55:Fallout4.esm",
+    "083BE6:Fallout4.esm",
+    "09B210:Fallout4.esm",
+    "09FF4D:Fallout4.esm",
+    "0A2927:Fallout4.esm",
+    "0F74B4:Fallout4.esm",
+    "1AEEDE:Fallout4.esm",
+    "1B39D9:Fallout4.esm",
+    "000F9E:Faded Glory - Soundtrack Expansion.esp",
+    "000FB1:Faded Glory - Soundtrack Expansion.esp",
+    "000FB3:Faded Glory - Soundtrack Expansion.esp",
+    "000FB4:Faded Glory - Soundtrack Expansion.esp",
+    "000FB5:Faded Glory - Soundtrack Expansion.esp",
+    "000FB8:Faded Glory - Soundtrack Expansion.esp",
+    "000FB9:Faded Glory - Soundtrack Expansion.esp",
+    "000FBE:Faded Glory - Soundtrack Expansion.esp",
+    "002E00:NirShor-MusicalLore.esp",
+    "005BCB:Fallout Suite.esp",
+    "005BCC:Fallout Suite.esp",
+    "005BCD:Fallout Suite.esp",
+    "005BCE:Fallout Suite.esp",
+    "005BCF:Fallout Suite.esp"
+  ]
+}

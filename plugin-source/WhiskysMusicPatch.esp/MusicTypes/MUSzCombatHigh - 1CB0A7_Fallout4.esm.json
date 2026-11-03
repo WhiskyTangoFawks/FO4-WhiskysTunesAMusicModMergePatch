@@ -1,0 +1,24 @@
+{
+  "FormKey": "1CB0A7:Fallout4.esm",
+  "EditorID": "MUSzCombatHigh",
+  "Flags": [
+    "CycleTracks",
+    "DucksCurrentTrack"
+  ],
+  "Data": {
+    "Priority": 15,
+    "DuckingDecibel": 100.0
+  },
+  "FadeDuration": 9.0,
+  "Tracks": [
+    "01ED17:Fallout4.esm",
+    "01ED3E:Fallout4.esm",
+    "006333:NirShor-MusicalLore.esp",
+    "006ACD:NirShor-MusicalLore.esp",
+    "01ED3F:Fallout4.esm",
+    "0A7386:Fallout4.esm",
+    "2495A2:Fallout4.esm",
+    "2495A3:Fallout4.esm",
+    "005BD0:Fallout Suite.esp"
+  ]
+}

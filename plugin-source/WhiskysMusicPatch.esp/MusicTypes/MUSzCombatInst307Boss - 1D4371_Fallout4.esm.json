@@ -1,0 +1,21 @@
+{
+  "FormKey": "1D4371:Fallout4.esm",
+  "EditorID": "MUSzCombatInst307Boss",
+  "Flags": [
+    "CycleTracks",
+    "DucksCurrentTrack"
+  ],
+  "Data": {
+    "Priority": 7,
+    "DuckingDecibel": 100.0
+  },
+  "FadeDuration": 9.0,
+  "Tracks": [
+    "0053FF:NirShor-MusicalLore.esp",
+    "03418B:Fallout4.esm",
+    "0A8219:Fallout4.esm",
+    "132255:Fallout4.esm",
+    "249667:Fallout4.esm",
+    "005BD0:Fallout Suite.esp"
+  ]
+}

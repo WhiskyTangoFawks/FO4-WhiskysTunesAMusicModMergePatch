@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/Whisky's\ Tunes\ -\ A\ Music\ Mod\ Merge\ Patch.manifest.json

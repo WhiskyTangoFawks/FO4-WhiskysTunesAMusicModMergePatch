@@ -1,0 +1,15 @@
+{
+  "ModKey": "WhiskysMusicPatch.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 2048
+    },
+    "Author": "Mator Smash v1.0.2.0",
+    "Description": "Smashed patch:\r\nDLCRobot.esm\r\nDLCworkshop01.esm\r\nDLCCoast.esm\r\nDLCworkshop02.esm\r\nDLCworkshop03.esm\r\nDLCNukaWorld.esm\r\nTrueStormsFO4.esm\r\nTrueStormsFO4-FarHarbor.esp\r\nFaded Glory - Soundtrack Expansion.esp\r\nFallout Suite.esp\r\nNirShor-MusicalLore.esp\r\nRadiantBirdsv05.esp\r\n"
+  }
+}

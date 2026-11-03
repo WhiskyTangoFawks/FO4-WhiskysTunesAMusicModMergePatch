@@ -1,0 +1,52 @@
+{
+  "FormKey": "04416F:DLCCoast.esm",
+  "EditorID": "DLC03MUSExplore",
+  "Flags": [
+    "CycleTracks"
+  ],
+  "Data": {
+    "Priority": 90
+  },
+  "FadeDuration": 12.0,
+  "Tracks": [
+    "0C7014:Fallout4.esm",
+    "04416D:DLCCoast.esm",
+    "0C7014:Fallout4.esm",
+    "057782:DLCCoast.esm",
+    "04E091:DLCCoast.esm",
+    "0BC112:Fallout4.esm",
+    "057782:DLCCoast.esm",
+    "0570DC:DLCCoast.esm",
+    "04416E:DLCCoast.esm",
+    "0A743C:Fallout4.esm",
+    "04BA24:DLCCoast.esm",
+    "0A743C:Fallout4.esm",
+    "04FBAB:DLCCoast.esm",
+    "057781:DLCCoast.esm",
+    "05D13C:DLCCoast.esm",
+    "05D3C8:DLCCoast.esm",
+    "0C7014:Fallout4.esm",
+    "000851:Radium.esp",
+    "000F9F:Faded Glory - Soundtrack Expansion.esp",
+    "000FA5:Faded Glory - Soundtrack Expansion.esp",
+    "000FAB:Faded Glory - Soundtrack Expansion.esp",
+    "06F17B:Fallout4.esm",
+    "000FAE:Faded Glory - Soundtrack Expansion.esp",
+    "000FAF:Faded Glory - Soundtrack Expansion.esp",
+    "000FBD:Faded Glory - Soundtrack Expansion.esp",
+    "000FD2:Faded Glory - Soundtrack Expansion.esp",
+    "0A743C:Fallout4.esm",
+    "000804:Radium.esp",
+    "0C7014:Fallout4.esm",
+    "000853:Radium.esp",
+    "0C7014:Fallout4.esm",
+    "000852:Radium.esp",
+    "0BC112:Fallout4.esm",
+    "000854:Radium.esp",
+    "0BC112:Fallout4.esm",
+    "000855:Radium.esp",
+    "000FD7:Faded Glory - Soundtrack Expansion.esp",
+    "000FE6:Faded Glory - Soundtrack Expansion.esp",
+    "000FE7:Faded Glory - Soundtrack Expansion.esp"
+  ]
+}

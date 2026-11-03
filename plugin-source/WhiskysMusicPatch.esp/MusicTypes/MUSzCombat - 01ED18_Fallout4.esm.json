@@ -1,0 +1,36 @@
+{
+  "FormKey": "01ED18:Fallout4.esm",
+  "EditorID": "MUSzCombat",
+  "Flags": [
+    "CycleTracks",
+    "DucksCurrentTrack"
+  ],
+  "Data": {
+    "Priority": 35,
+    "DuckingDecibel": 100.0
+  },
+  "FadeDuration": 20.0,
+  "Tracks": [
+    "0439EC:Fallout4.esm",
+    "0439ED:Fallout4.esm",
+    "1A948B:Fallout4.esm",
+    "1AC3A4:Fallout4.esm",
+    "01ED17:Fallout4.esm",
+    "01ED3E:Fallout4.esm",
+    "01ED3F:Fallout4.esm",
+    "0053FF:NirShor-MusicalLore.esp",
+    "006333:NirShor-MusicalLore.esp",
+    "006ACD:NirShor-MusicalLore.esp",
+    "0A7386:Fallout4.esm",
+    "03418B:Fallout4.esm",
+    "0A8219:Fallout4.esm",
+    "132255:Fallout4.esm",
+    "249666:Fallout4.esm",
+    "2495A2:Fallout4.esm",
+    "2495A3:Fallout4.esm",
+    "249667:Fallout4.esm",
+    "2496B4:Fallout4.esm",
+    "00085B:Radium.esp",
+    "00085C:Radium.esp"
+  ]
+}
