@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/Whisky's\ Tunes\ -\ Copyright\ Free\ Version\ For\ Streamers.manifest.json

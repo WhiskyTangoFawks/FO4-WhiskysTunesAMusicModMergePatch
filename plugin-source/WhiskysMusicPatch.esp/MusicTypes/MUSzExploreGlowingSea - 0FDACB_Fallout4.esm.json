@@ -1,0 +1,49 @@
+{
+  "FormKey": "0FDACB:Fallout4.esm",
+  "EditorID": "MUSzExploreGlowingSea",
+  "Flags": [
+    "CycleTracks"
+  ],
+  "Data": {
+    "Priority": 8
+  },
+  "FadeDuration": 12.0,
+  "Tracks": [
+    "005426:Fallout Suite.esp",
+    "0FDAA3:Fallout4.esm",
+    "005428:Fallout Suite.esp",
+    "0BC112:Fallout4.esm",
+    "0FDAAE:Fallout4.esm",
+    "00542A:Fallout Suite.esp",
+    "0BC112:Fallout4.esm",
+    "0FDABC:Fallout4.esm",
+    "00085F:Radium.esp",
+    "000858:Radium.esp",
+    "00085A:Radium.esp",
+    "000857:Radium.esp",
+    "00085E:Radium.esp",
+    "000802:Radium.esp",
+    "000803:Radium.esp",
+    "000800:Radium.esp",
+    "000801:Radium.esp",
+    "000847:Radium.esp",
+    "000848:Radium.esp",
+    "00084A:Radium.esp",
+    "000849:Radium.esp",
+    "000FC7:Faded Glory - Soundtrack Expansion.esp",
+    "000FC8:Faded Glory - Soundtrack Expansion.esp",
+    "000FC9:Faded Glory - Soundtrack Expansion.esp",
+    "0BC112:Fallout4.esm",
+    "000FCA:Faded Glory - Soundtrack Expansion.esp",
+    "000FCB:Faded Glory - Soundtrack Expansion.esp",
+    "06F17B:Fallout4.esm",
+    "000FCD:Faded Glory - Soundtrack Expansion.esp",
+    "000FCE:Faded Glory - Soundtrack Expansion.esp",
+    "000FD7:Faded Glory - Soundtrack Expansion.esp",
+    "0BC112:Fallout4.esm",
+    "000FDC:Faded Glory - Soundtrack Expansion.esp",
+    "000FE2:Faded Glory - Soundtrack Expansion.esp",
+    "00542C:Fallout Suite.esp",
+    "0FDAA4:Fallout4.esm"
+  ]
+}

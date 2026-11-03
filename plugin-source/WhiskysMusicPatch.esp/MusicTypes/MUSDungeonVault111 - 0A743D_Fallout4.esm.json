@@ -1,0 +1,18 @@
+{
+  "FormKey": "0A743D:Fallout4.esm",
+  "EditorID": "MUSDungeonVault111",
+  "Flags": [
+    "CycleTracks"
+  ],
+  "Data": {
+    "Priority": 80
+  },
+  "FadeDuration": 4.0,
+  "Tracks": [
+    "0A743B:Fallout4.esm",
+    "0A743B:Fallout4.esm",
+    "000FE3:Faded Glory - Soundtrack Expansion.esp",
+    "000FDD:Faded Glory - Soundtrack Expansion.esp",
+    "000FCC:Faded Glory - Soundtrack Expansion.esp"
+  ]
+}

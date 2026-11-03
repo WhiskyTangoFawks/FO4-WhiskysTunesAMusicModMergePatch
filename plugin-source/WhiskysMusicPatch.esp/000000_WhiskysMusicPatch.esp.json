@@ -1,0 +1,15 @@
+{
+  "ModKey": "WhiskysMusicPatch.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 2048
+    },
+    "Author": "",
+    "Description": ""
+  }
+}

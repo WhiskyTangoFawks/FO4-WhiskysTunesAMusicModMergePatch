@@ -1,0 +1,21 @@
+{
+  "FormKey": "204AB8:Fallout4.esm",
+  "EditorID": "MUSzCombatBossLegendary",
+  "Flags": [
+    "CycleTracks",
+    "DucksCurrentTrack"
+  ],
+  "Data": {
+    "Priority": 12,
+    "DuckingDecibel": 100.0
+  },
+  "FadeDuration": 9.0,
+  "Tracks": [
+    "204AB9:Fallout4.esm",
+    "204ABA:Fallout4.esm",
+    "204ABB:Fallout4.esm",
+    "249668:Fallout4.esm",
+    "2496B5:Fallout4.esm",
+    "005BD0:Fallout Suite.esp"
+  ]
+}
