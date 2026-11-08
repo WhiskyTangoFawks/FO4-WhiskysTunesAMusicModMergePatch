@@ -1,6 +1,3 @@
 {
-"version":1,
-"packages":[
-{"kind":"installationFile","name":"Whisky's Tunes-62053-2-2-1716019512.7z","packageVersion":"2.2.0.0","size":1886,"hash":"arYIXPwq/8k=","host":{"nexus":{"game":"fallout4","mod":62053,"file":317351}}}
-]
+"version":1
 }
